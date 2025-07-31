@@ -29,8 +29,9 @@ print(b1 == b3)
 print(b1 == b2)
 
 # TODO: change some fields
-b1.title  = "Annies Book"
+b1.title  = "Annie's Book"
 b1.pages = 529
 b1.author = "Newman"
 b1.price = 13.14
 print(b1.bookinfo())
+
